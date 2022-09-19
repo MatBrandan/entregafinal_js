@@ -144,7 +144,7 @@ btnMostrar.addEventListener('click', () => {
 function mostrarResultado(resultado) {
     busquedaContainer.innerHTML = ""
     resultado.forEach((busqueda) => {
-        cardBusqueda.innerHTML = `<div class="card text-bg-light border-primary mb-3 " style="width: 35%;">
+        cardBusqueda.innerHTML = `<div class="card text-bg-light border-primary mb-3 col-sm-10" style="width: 35%;">
         <div class="card-body">
             <h4 class="card-title text-center text-bg-light mb-4">Resultado Busqueda</h4>
             <h6 class="card-subtitle">Id. Pedido</h6>
