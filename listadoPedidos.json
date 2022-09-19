@@ -1,0 +1,37 @@
+[
+{
+    "id": 1,
+    "nombre": "Pepa Rosas", 
+    "direccion": "Calle Falsa 123",
+    "telefono": 1122334455,
+    "garantia": "Si"
+},
+{
+    "id": 2,
+    "nombre": "Luis Alfonson", 
+    "direccion": "Tupac Amaru 2331",
+    "telefono": 1199008877,
+    "garantia": "No"
+},
+{
+    "id": 3,
+    "nombre": "Cecilia Millan", 
+    "direccion": "Uspallata 664",
+    "telefono": 1166557744,
+    "garantia": "Si"
+},
+{
+    "id": 4,
+    "nombre": "Pablo Ramos", 
+    "direccion": "Constitucion 1061",
+    "telefono": 1122223333,
+    "garantia": "No"
+},
+{
+    "id": 5,
+    "nombre": "Maria Mendez", 
+    "direccion": "Rivadavia 488",
+    "telefono": 1144445555,
+    "garantia": "No"
+}
+]
